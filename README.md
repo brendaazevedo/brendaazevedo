@@ -1,4 +1,4 @@
-Olá, sou Brenda Azevedo👋 
+<h2> Olá, sou Brenda Azevedo👋</h2>
 
 - ✨ Uma baiana criativa apaixonada por tecnologia.
 - 🌱 Atualmente estou estudando para me tornar uma Desenvolvedora Web.
